@@ -2,11 +2,30 @@
 
 A free, open-source piano practice app. Upload any MusicXML or MIDI file, or try a built-in demo piece, and Pianly guides you through each note in real time — using your microphone or MIDI keyboard.
 
-No paywall. No account. Just play.
+With Pianly, you don't have to worry about any "Free Practice!" message, where if you open the sheet music you get hit with a paywall.
 
-Please consider donating once I set up a donation link lol. I need some money to train a new mic ML i'm working on. I'll also need some money to put this on the app store.
+I made this for the frustrated like me, who spent hours trying to find a way to learn and relax with piano, just to be met with greedy companies.
+
+While it is open source, if you'd want to show appreciation/support, please consider donating once I set up a donation link lol. I need some money to train a new mic ML I'm working on. Currently, MIDI is your best bet.
+
+I'll also need some money to put this on the app store. 
+
+For now, enjoy, more features will be coming your way.
+
+## IMPORTANT
+The app is currently unsigned, which is why computers tend to say it's corrupt/missing files. To get through the process of getting the annoying message out, apple wants 99 dollars and Microsoft wants more money to get the app signed.
+
+Please let me know if you guys know someone who could help me out with this.
+
+But for now, to get around them, scroll to releases
+
+While MIDI works very well, the mic has some troubles with latency.
+
+The visualizer also has a bug when you change the speed in the middle of a listening session, where the notes just move to a random point.
 
 ## Features
+
+Please do recommend any features you would like to see as well as any bugs in the issues tab.
 
 ### Sheet Music Practice
 
@@ -33,7 +52,6 @@ A falling-notes view (Synthesia-style) with two sub-modes:
   - Green keys = correct notes being held
   - Red keys = wrong notes being held
   - Amber outline = target notes while paused
-  - Anti-cheat rewind — pressing Play when a note was missed rewinds back to that note
   - Press any key to begin — practice starts only when you start playing
 - Chord detection — all chord notes must be held with no extras to advance
 - Customizable colors — set independent colors for right and left hand notes
@@ -67,6 +85,7 @@ Go to the [Releases](https://github.com/KeerCode/Pianly-1.0.0/releases) page and
 > If that doesn't work run 
   xattr -cr /Applications/Pianly.app
   once you moved the Pianly to your applications folder.
+> **Windows note:** Again, the app isn't notarized. to get around, click **More info** and then **Run anyway**
 
 ## Finding Sheet Music
 
