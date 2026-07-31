@@ -64,6 +64,9 @@ Go to the [Releases](https://github.com/KeerCode/Pianly-1.0.0/releases) page and
 | **Windows** | `.msi` or `.exe` |
 
 > **macOS note:** The app is not notarized, so on first launch you may need to right-click the app and select **Open**, then click **Open** again in the dialog. You only need to do this once.
+> If that doesn't work run 
+  xattr -cr /Applications/Pianly.app
+  once you moved the Pianly to your applications folder.
 
 ## Finding Sheet Music
 
