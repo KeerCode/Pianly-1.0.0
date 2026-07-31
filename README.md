@@ -13,11 +13,12 @@ I'll also need some money to put this on the app store.
 For now, enjoy, more features will be coming your way.
 
 ## IMPORTANT
-The app is currently unsigned, which is why computers tend to say it's corrupt/missing files. To get through the process of getting the annoying message out, apple wants 99 dollars and Microsoft wants more money to get the app signed.
+The app is currently unsigned, which is why computers tend to say it's corrupt/missing files. To get through the process of getting the annoying message out, apple wants 99 dollars and Microsoft wants more money to get the app signed. Please let me know if you guys know someone who could help me out with this.
 
-Please let me know if you guys know someone who could help me out with this.
 
 But for now, to get around them, scroll to releases
+
+You also WILL need your own sheet music/midi file. I'm working on connecting a larger repository of sheet music for a future update. I would also recommend a cable to connect your piano to your laptop, since the current mic detection is slow.
 
 While MIDI works very well, the mic has some troubles with latency.
 
